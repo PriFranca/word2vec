@@ -1,1 +1,1 @@
-# Estudo de Word Embedding com Word2vec
+# Estudo de Word Embedding com Word2Vec
